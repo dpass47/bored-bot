@@ -2,19 +2,9 @@
 
 A web application to give you ideas of what to do when you are bored.
 
-## Table of contents
-
--   [Overview](#overview)
-    -   [Screenshot](#screenshot)
-    -   [Links](#links)
--   [My process](#my-process)
-    -   [Built with](#built-with)
-    -   [What I learned](#what-i-learned)
--   [Author](#author)
-
 ## Overview
 
-### Screenshot
+### Screenshots
 
 ![](./screenshots/screenshot-1.png)
 ![](./screenshots/screenshot-2.png)
